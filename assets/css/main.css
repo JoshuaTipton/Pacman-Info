@@ -3203,6 +3203,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
+		background-color: #826aed;
 	}
 
 		.wrapper > .inner {
@@ -3236,7 +3237,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #b247ff;
 		}
 
 		.wrapper.style1 {
@@ -3370,7 +3371,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #b247ff;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
